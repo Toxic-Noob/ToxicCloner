@@ -28,3 +28,9 @@ apt update -y && apt upgrade -y && pkg install python git -y && git clone https:
 [*] For Any Need, Contact Via Mail:
 
 ToxicNoob.Sl4d3.Official@gmail.com
+
+<br><br>
+<h3><b><i>Visitors :</i></b></h3>
+
+
+![Visitor Count](https://profile-counter.glitch.me/Toxic-Noob/count.svg)
